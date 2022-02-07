@@ -1,4 +1,4 @@
-# print("hello world ")
+
 hight = int(input("wht is your hight?"))
 bill =  0 
 
